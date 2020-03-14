@@ -10,10 +10,10 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,149,1) 51%, rgb
 
 
 <?php
-$host    = "fdb21.awardspace.net";
-   $username   = "3095051_mydatabase";
-   $password   = "krishna10";
-   $db_name   = "3095051_mydatabase";
+      $host     = "server name here";
+    $username   = "username here";
+    $password   = "password here";
+    $database   = "db_name here";
 $tbl_name="fquestions"; // Table name 
 
 // Connect to server and select databse.
