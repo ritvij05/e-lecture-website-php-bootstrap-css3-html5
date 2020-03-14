@@ -2,10 +2,10 @@
 <?php
 	 @session_start();
 
-   $server     = "fdb21.awardspace.net";
-   $username   = "3095051_mydatabase";
-   $password   = "krishna10";
-   $database   = "3095051_mydatabase";
+         $server     = "server name here";
+    $username   = "username here";
+    $password   = "password here";
+    $database   = "db_name here";
  	 $con = mysqli_connect($server, $username, $password, $database);
 
    //echo "Connection Established <br>";
