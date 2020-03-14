@@ -1,9 +1,9 @@
 <?php
 
-$host    = "fdb21.awardspace.net";
-   $username   = "3095051_mydatabase";
-   $password   = "krishna10";
-   $db_name   = "3095051_mydatabase";
+      $server     = "server name here";
+    $username   = "username here";
+    $password   = "password here";
+    $database   = "db_name here";
 $tbl_name="fanswer"; // Table name 
 
 // Connect to server and select databse.
